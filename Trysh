@@ -1,0 +1,21 @@
+# My Documentation Project
+
+Welcome to my documentation project. This is a simple example of how to use Markdown.
+
+## Features
+
+- Bullet points
+- **Bold text**
+- _Italic text_
+- [Link to Google](https://www.google.com)
+
+## How to Use
+
+1. Clone the repository.
+2. Read the documentation.
+3. Enjoy!
+
+## Code Example
+
+```python
+print("This is a Python code block example!")
